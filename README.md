@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <div align="center">
 
 # ⬢ ZeroBleed
@@ -20,7 +27,7 @@
 
 ---
 
-
+https://github.com/user-attachments/assets/a478dd9b-8504-4c7d-bfbf-74aaccf767f0
 
 ## Overview
 
