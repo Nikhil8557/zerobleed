@@ -1,0 +1,1 @@
+{"text":"{\n  \"status\": \"VERIFIED\",\n  \"classification\": \"HARDWARE_FAILURE\",\n  \"rule_applied\": \"3\"\n}","model":"nvidia/nemotron-3.5-lightning-30b-a3b","usage":{"input_tokens":727,"output_tokens":32},"ms":831,"receiptId":"rcpt_req_yr1d14ga"}

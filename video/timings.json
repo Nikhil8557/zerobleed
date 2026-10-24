@@ -1,0 +1,38 @@
+[
+  {
+    "scene": "title",
+    "seconds": 6.5
+  },
+  {
+    "scene": "problem",
+    "seconds": 9.5
+  },
+  {
+    "scene": "how",
+    "seconds": 10.9
+  },
+  {
+    "scene": "live1-intro",
+    "seconds": 5.6
+  },
+  {
+    "scene": "live1-run",
+    "seconds": 41.5
+  },
+  {
+    "scene": "live2-intro",
+    "seconds": 6.6
+  },
+  {
+    "scene": "live2-run",
+    "seconds": 57
+  },
+  {
+    "scene": "results",
+    "seconds": 10.5
+  },
+  {
+    "scene": "close",
+    "seconds": 5.6
+  }
+]

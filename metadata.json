@@ -1,0 +1,5 @@
+{
+  "name": "ZeroBleed Auditor",
+  "description": "A need-to-know context broker for agentic audits and incident triage, built on Zetaris, Meterless Nightshift and the Markovian engine.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

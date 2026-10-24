@@ -1,0 +1,14 @@
+.env
+.env.*
+__pycache__/
+.venv/
+node_modules/
+.zerobleed/
+runs/
+logs/trace-test-*
+logs/trace-SHP-*
+logs/trace-ALR-*
+docs/pdf/.*.html
+video/clips/
+video/*.mp4
+docs/pdf/
