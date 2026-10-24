@@ -20,23 +20,7 @@
 
 ---
 
-## Walkthrough & Demonstration
 
-<div align="center">
-
-[![ZeroBleed Live Demonstration](docs/demo-preview.gif)](docs/VID-20261024-WA0050.mp4)
-
-<p align="center">
-  <a href="docs/VID-20261024-WA0050.mp4">
-    <b>▶ Click to Watch Full HD Video (1:54 · docs/demo.mp4)</b>
-  </a>
-  <br/>
-  <sub><b>Live Pipeline in Action:</b> Real-time least-privilege context brokering, adversarial prompt injection neutralization, and 90%+ token reduction compared to standard shared-history agent pipelines.</sub>
-</p>
-
-</div>
-
----
 
 ## Overview
 
