@@ -24,10 +24,10 @@
 
 <div align="center">
 
-[![ZeroBleed Live Demonstration](docs/demo-preview.gif)](docs/demo.mp4)
+[![ZeroBleed Live Demonstration](docs/demo-preview.gif)](docs/VID-20261024-WA0050.mp4)
 
 <p align="center">
-  <a href="docs/demo.mp4">
+  <a href="docs/VID-20261024-WA0050.mp4">
     <b>▶ Click to Watch Full HD Video (1:54 · docs/demo.mp4)</b>
   </a>
   <br/>
